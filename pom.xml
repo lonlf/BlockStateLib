@@ -55,6 +55,19 @@
                     </execution>
                 </executions>
             </plugin>
+
+            <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-javadoc-plugin</artifactId>
+            <executions>
+                <execution>
+                    <id>generate-javadocs</id>
+                    <goals>
+                        <goal>javadoc</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
         </plugins>
     </build>
 
