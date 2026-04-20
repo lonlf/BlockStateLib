@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.lonleaf"},{"l":"com.lonleaf.calculator"},{"l":"com.lonleaf.exception"},{"l":"com.lonleaf.manager"},{"l":"com.lonleaf.model"},{"l":"com.lonleaf.parser"},{"l":"com.lonleaf.resource"},{"l":"com.lonleaf.validator"},{"l":"com.lonleaf.version"}];updateSearchResults();
